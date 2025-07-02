@@ -1,13 +1,12 @@
-# 👋 Hey, I'm Julius Jogela
+# 👋 Hi, I'm Julius Jogela
 
 🎓 Computer Science @ Trinity College Dublin  
-🔭 SWE Ex-Intern @ Quantexa | TAP Ambassador | IMTA Regional Winner  
 💡 Interests: AI, Backend Systems, Startups, Quant Finance  
-📫 Connect: [LinkedIn](https://linkedin.com/in/julius-jogela)
+📫 Connect: [LinkedIn](https://linkedin.com/in/julius-jogela) · jogelaj@tcd.ie
 
 ## 💻 Tech Stack
-- Languages: Python, Java, C, JavaScript, TypeScript  
-- Tools: Git, Docker, MongoDB, Flask, React, 
+- **Languages**: Python, Java, C, JavaScript, TypeScript
+- **Frameworks**: Flask, React, Node.js, MongoDB, SQL
 
 ## 🧠 Projects
 - 🧠 **LLM Agent Simulation** (Internship @ Quantexa)  
@@ -20,4 +19,4 @@
   Probabilistic forecasting for Premier League outcomes and temperature simulations.
 
 ## 📈 GitHub Stats
-![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julius-jogela&show_icons=true&theme=radical)
+![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliusjogela&show_icons=true&theme=radical)
