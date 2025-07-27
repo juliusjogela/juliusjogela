@@ -39,15 +39,12 @@
 
 - 🧠 **LLM Agent Simulation** (Internship @ Quantexa)  
   Turn-based multi-agent simulation framework for orchestrating locally hosted LLMs. Built with Flask, Ollama, and MongoDB.
-
-- ♻️ **CanCollect**  
-  Bottle-deposit return system connecting recyclers with collectors. React + Flask + MongoDB. *(In Progress)*
-
-- 🎲 **Monte Carlo Simulator**  
-  Probabilistic model for forecasting Premier League outcomes.
-
+  
 - 🤖 **ProfitBot**  
-  A profit-tracking automation bot designed for resellers. Scans item listings, calculates margins, and suggests pricing adjustments. *(WIP)*
+  A profit-tracking automation bot designed for resellers. Scans item listings, calculates margins, and suggests pricing adjustments.
+  
+- ♻️ **Cores2Drill Website**  
+  React website for Cores2Drill, A diamond core drilling company in Ireland.
 
 ---
 
