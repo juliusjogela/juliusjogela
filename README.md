@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Julius Jogela
 
 🎓 Computer Science @ Trinity College Dublin  
-💡 Interests: AI, Backend Systems, Frontend Development
+💡 Interests: AI, Backend Systems, Frontend Development  
 📫 Connect: [LinkedIn](https://linkedin.com/in/julius-jogela) · [Email](mailto:jogelaj@tcd.ie)
 
 ---
